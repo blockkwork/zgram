@@ -19,3 +19,5 @@ full example: [src/main.zig](https://github.com/blockkwork/zgram/blob/main/src/m
     }
     try tg.startPolling(.{ .drop_pending_updates = true });
 ```
+
+![image](https://github.com/user-attachments/assets/fa302fab-4230-4298-883d-e2f8c77454ce)
